@@ -1,0 +1,59 @@
+.mainpost{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    
+
+}
+
+body {
+  background: rgb(136, 95, 46);
+  padding: 40px;
+}
+
+.postone{
+  border-radius: 12px;
+   background: white;
+  box-shadow:  6px 10px black;
+
+}
+.posttwo{
+
+     background: white;
+  border-radius: 12px;
+  box-shadow:  6px 10px black;
+}
+.postthree{
+     border-radius: 12px;
+   background: white;
+  box-shadow:  6px 10px black;
+}
+.cardfooter1{
+     background: rgb(223, 150, 206) ;
+      display: flex;
+  justify-content: space-between;
+  padding: 90px 100px;
+  color: white;
+  font-size: 20px;
+  gap: 20px;
+
+}
+.cardfooter2{
+      background:orange ;
+      display: flex;
+  justify-content: space-between;
+  padding: 85px 100px;
+  color: white;
+  font-size: 20px;
+  gap: 20px;
+}
+
+.cardfooter3{
+      background: green ;
+      display: flex;
+  justify-content: space-between;
+  padding: 85px 100px;
+  color: white;
+  font-size: 20px;
+  gap: 20px;
+}
